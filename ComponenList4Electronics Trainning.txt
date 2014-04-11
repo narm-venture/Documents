@@ -22,4 +22,6 @@ List of Components
 20.	L293D (80)
 21.	Push button switch (10)
 22.	Buzzer (10)
+23. 	USB AVR Programmer
+24. 	ATmega32
 
